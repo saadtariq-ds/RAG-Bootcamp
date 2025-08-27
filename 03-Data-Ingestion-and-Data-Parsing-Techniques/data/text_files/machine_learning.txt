@@ -1,0 +1,21 @@
+Machine Learning (ML) is a subset of Artificial Intelligence (AI) that focuses on building systems that can learn from data and 
+improve performance over time without being explicitly programmed. Instead of writing step-by-step instructions, ML models use patterns in data to make predictions, 
+classifications, or decisions.
+
+Key Concepts
+
+- Data: The foundation of ML—models learn from examples (structured data like tables or unstructured data like text, images, audio).
+
+- Features & Labels: Features are input variables; labels are the outcomes you want to predict.
+
+- Model: A mathematical representation that maps input data to predictions.
+
+- Training & Testing: Training teaches the model patterns; testing evaluates performance on unseen data.
+
+Supervised vs. Unsupervised Learning:
+
+- Supervised: Learns from labeled data (e.g., predicting house prices).
+
+- Unsupervised: Finds hidden patterns in unlabeled data (e.g., customer segmentation).
+
+- Reinforcement Learning: Models learn by interacting with an environment and receiving feedback (rewards/penalties).
