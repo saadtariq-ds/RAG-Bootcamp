@@ -16,3 +16,4 @@ unstructured==0.18.14
 openpyxl==3.1.5
 msoffcrypto-tool==5.4.2
 jq==1.10.0
+matplotlib==3.10.6
