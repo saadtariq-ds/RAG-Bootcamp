@@ -183,3 +183,4 @@ cython_debug/
 # Vector Databases
 chroma_db/
 faiss_index/
+output/
