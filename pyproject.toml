@@ -19,6 +19,7 @@ dependencies = [
     "langchain-huggingface==0.3.1",
     "langchain-openai==0.3.32",
     "langchain-pinecone==0.2.11",
+    "langgraph==0.6.7",
     "matplotlib==3.10.6",
     "msoffcrypto-tool==5.4.2",
     "openpyxl==3.1.5",

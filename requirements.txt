@@ -9,6 +9,7 @@ langchain-huggingface==0.3.1
 langchain-pinecone==0.2.11
 langchain-astradb==0.6.1
 langchain-experimental==0.3.4
+langgraph==0.6.7
 chromadb==1.0.20
 sentence-transformers==5.1.0
 pypdf==6.0.0
