@@ -184,3 +184,6 @@ cython_debug/
 chroma_db/
 faiss_index/
 output/
+
+# LangGraph
+.langgraph_api/
