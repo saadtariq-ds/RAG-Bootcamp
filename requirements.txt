@@ -12,6 +12,7 @@ langchain-experimental==0.3.4
 langchain-tavily==0.2.11
 langgraph==0.6.7
 langgraph-cli[inmem]
+langgraph-supervisor==0.0.29
 chromadb==1.0.20
 sentence-transformers==5.1.0
 pypdf==6.0.0
